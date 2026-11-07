@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas1606&label=Profile%20views&color=0e75b6&style=flat" alt="anas1606" /> </p>
 
-- 💬 Ask me about **Java, Spring Boot, SQL/NOSQL, IOT**
-
-- 📫 How to reach me **anasloriya.info@gmail.com**
-
 - 📄 Know about my experiences [https://in.linkedin.com/in/anas-loriya](https://in.linkedin.com/in/anas-loriya)
 
 <h3 align="left">Connect with me:</h3>
